@@ -1,0 +1,139 @@
+/* 字型 */
+*{font-family:noto sans tc,sans-seruf;}
+/* 字體大小 */
+h1{font-size: 96px;}
+h2{font-size: 45px;} 
+
+/* 第一區塊 */
+#第一區塊{
+    text-align: center;
+    content: 10px;
+    font-size:30px;     
+    color: #FFFFFF;
+    background-color:#3461FF ;
+}
+#第一區塊 p {
+    padding: 10px;
+}
+#第一區塊圖 {
+    margin : auto;
+    display : block;
+    width: 50%;
+}
+/* 第二區塊 */
+#聯繫我們{
+text-align: center;
+h1{
+    margin:0 ;
+}
+p{
+    font-size: 30px;
+    opacity:0.6;
+}   
+}
+#聯繫我們 h1{
+margin:0 ;
+}
+#聯繫方式{
+    display: flex;
+    justify-content: center;
+    align-items: center;        
+    p{
+        margin: 10px;
+        font-size:25px ;
+        line-height: 20px;
+        color: #FFFFFF;    
+    }
+}
+#a1{
+    background-color: #80CC28;
+    padding: 20px;
+    border-radius: 50px;
+    font-size:20px ;
+    color: #FFFFFF;
+}
+#p2{
+    background-color: #3461ff;
+    padding: 20px;
+    border-radius: 50px;
+}
+#臨時周轉img{
+width: 100%;
+}
+
+#服務優點標題 {
+    text-align: center;
+    color: #3461FF;
+    font-size: 45px;
+}
+#服務優點1{
+    display:flex ;
+    justify-content: center;
+}
+#單項服務優點1-1,#單項服務優點1-2{
+    text-align: center;
+    border: 1px solid#3461FF;
+    margin: 10px;
+    }
+    H3{
+    font-size: 30Px;
+    color: #FFFFFF;
+    padding: 20px;
+    margin: 0;
+    background-color: #3461FF;
+    }
+#服務優點2{
+    display:flex ;
+    justify-content: center;
+    align-items: center; 
+    }
+#單項服務優點2-1,#單項服務優點2-2{
+    text-align: center;
+    display: grid;
+    border: 1px solid#3461FF;
+    margin: 10px;
+    H3{
+    font-size: 30Px;
+    color: #FFFFFF;
+    padding: 20px;
+    margin: 0;
+    background-color: #3461FF;
+    p{
+        margin: 100px;
+    }   
+    }
+}
+#合法經營{
+    margin-top: 50px;
+display: flex;
+justify-content: center;
+align-items: center; 
+background-image: url(./img/CTABanner.png);
+border-radius: 30%;
+background-repeat: no-repeat;
+background-position: center;
+
+H2{
+    margin-right: 400px;
+    font-size: 50px;
+    color: #FFFFFF;
+}
+p{
+    font-size: 18px;
+    line-height:30px;
+    color: #FFFFFF;   
+
+}
+a{
+    background-color:#FFFFFF ;
+    color: black;
+    padding: 15px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border: 30px;
+
+    border-radius: 30px;
+    font-size:20px ;
+    
+}
+}

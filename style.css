@@ -347,3 +347,32 @@ footer span {
         padding: 5% 10px;
     }
 }
+    .section5{
+        display: flex;
+        justify-content: center;
+        flex-wrap:wrap;
+
+    }
+    .section5 div{
+        border: 1px solid black;
+        margin: 2rem 2rem; 
+        width: 400px;
+        flex-wrap: wrap;
+        padding: 2rem;
+        padding-bottom: 1rem;
+    }
+    .section5 img{
+        width: 400px;
+    }
+    .section5 h3 ,p {
+        text-align: center;
+        margin: auto auto;
+        width: 300px;
+    }
+    .section5 h3{
+        font-size: 30px;
+        color:#3461FF ;
+    }
+    .section5 p {
+    font-weight: 400;
+    }    

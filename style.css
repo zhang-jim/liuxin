@@ -364,10 +364,11 @@ footer span {
     .section5 img{
         width: 400px;
     }
-    .section5 h3 ,p {
+    section.section5 h3 ,section.section5 p {
         text-align: center;
         margin: auto auto;
         width: 300px;
+        margin-top: 1rem;
     }
     .section5 h3{
         font-size: 30px;
@@ -375,4 +376,11 @@ footer span {
     }
     .section5 p {
     font-weight: 400;
-    }    
+    }
+    .section6{
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        text-align: center;
+        font-size: 25px;
+        color: #3461FF;
+    }
